@@ -1,0 +1,14 @@
+History Section 1
+
+Attributes:
+	1. Syllabus PDF
+	2. Test 89.5
+	3. Grade ("B")
+	4. Essay (92.5)
+	5. Essay_Prompts PDF
+
+Methods:
+	1. Snow Day: Chapter 6 test now on Monday, not Thursday
+	2. Failed Test: B is now C
+	3. Extra Credit: C is now B
+	4. New Required Reading: Remove The Art of War, Add Life and Fate

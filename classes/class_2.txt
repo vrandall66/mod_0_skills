@@ -1,0 +1,14 @@
+Object: History
+
+Attributes:
+	1. Syllabus (object)(string)
+	2. Test (float)
+	3. Grade (float)
+	4. Essay (float)
+	5. Essay_Prompts (object)
+
+Methods:
+	1. Snow Day (modifies Syllabus)
+	2. Failed Test (modifies test and grade)
+	3. Extra Credit (modifies grade)
+	4. New Required Reading (modifies Essay_Prompts)

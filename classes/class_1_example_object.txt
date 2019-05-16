@@ -1,0 +1,16 @@
+Geometry Section 2
+
+
+Attributes:
+	1. Number_of_Students 18
+	2. Teacher "Mr. Smith"
+	3. Student_Names ("Amy Adams", "Johnny Depp" "Jennifer Anniston" "Brad Pitt" "Meryl Streep")
+	4. Section_Number 2
+	5. Start_Time 10:45
+	6. End_Time 11:30
+
+Methods:
+	1. Enrollment 19, add ("Ellen Degeneres")
+	2. Change in section schedules Start_Time 11:35, End_Time 12:20
+	3. Early Release Start_Time 10:15, End_Time 10:45
+	4. Student Drops Class Number_of_Students 18, remove ("Ellen Degeneres")
