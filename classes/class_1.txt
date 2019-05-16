@@ -1,0 +1,15 @@
+Class: Math
+
+Attributes:
+	1. Number_of_Students (integer)
+	2. Teacher (string)
+	3. Student_Names (string)
+	4. Section_Number (integer)
+	5. Start_Time (float)
+	6. End_Time (float)
+
+Methods:
+	1. Enrollment (modifies Number_of_Students and Student_Names)
+	2. Change in section schedules (modifies Start_Time and End_Time)
+	3. Early Release (modifies Start_Time and End_Time)
+	4. Student Drops Class (modifies Number_of_Students and Student_Names)
