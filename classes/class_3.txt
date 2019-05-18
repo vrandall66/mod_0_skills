@@ -1,0 +1,25 @@
+Class: Chair
+
+Attributes:
+	1. Wheels (boolean)
+	2. Arm Rests (boolean)
+	3. Adjustable_height (boolean)
+	4. Fabric (string)
+	5. Frame_material (string)
+	6. Color (string)
+	7. Price (string)
+	8. Weight (float)
+	9. Weight_capacity (float)
+	10. Seat_height_minimum (float)
+	11. Seat_height_maximum (float)
+	12. Foldable (boolean)
+	13. Dimensions_setup (string)
+	14. Dimensions_folded (string)
+	15. Current_seat_height (float)
+
+Methods:
+	1. Raise_height (add Height_adjust to Current_seat_height)
+	2. Sit (add Weight_sit to Weight and subtract Weight_sit from Weight_capacity)
+	3. Stand_up (restore Weight and Weight_capactity)
+	4. Lower_height (subtract Height_adjust from Current_seat_height)
+	5. Mark_on_sale (multiply Price by Sale_percentage and subtract Discount from Price)
