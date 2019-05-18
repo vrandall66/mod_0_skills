@@ -3,7 +3,7 @@ Object: History
 Attributes:
 	1. Syllabus (object)(string)
 	2. Test (float)
-	3. Grade (float)
+	3. Grade (string)
 	4. Essay (float)
 	5. Essay_Prompts (object)
 
