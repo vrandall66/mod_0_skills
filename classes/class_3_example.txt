@@ -1,0 +1,25 @@
+Object: Mesh Desk Chair
+
+Attributes:
+	1. Wheels true
+	2. Arm Rests true
+	3. Adjustable_height true
+	4. Fabric ("Mesh")
+	5. Frame_material ("Metal", "Plywood")
+	6. Color ("Black")
+	7. Price ("$89.99")
+	8. Weight 22.46
+	9. Weight_capacity 275
+	10. Seat_height_minimum 15.5
+	11. Seat_height_maximum 19.88
+	12. Foldable false
+	13. Dimensions_setup ("40.1 inches (H) x 22.5 inches (W) x 24 inches (D)")
+	14. Dimensions_folded ("20.05 inches (H) x 22.5 inches (W) x 4 inches (D)")
+	15. Current_seat_height (17.25)
+
+Methods:
+	1. Raise_height (add Height_adjust to Current_seat_height)
+	2. Sit (add Weight_sit to Weight and subtract Weight_sit from Weight_capacity)
+	3. Stand_up (restore Weight and Weight_capactity)
+	4. Lower_height (subtract Height_adjust from Current_seat_height)
+	5. Mark_on_sale (multiply Price by Sale_percentage and subtract result from Price)
