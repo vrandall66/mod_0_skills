@@ -22,5 +22,5 @@ Methods:
 	2. Lower_height (lower Current_seat_height by input)
 	3. Mark_on_sale (multiply Price by Sale_percentage and subtract amount from Price)
 	4. Spin (update Degree_facing by input)
-	5. Roll (update chair_in_motion true)
-	6. Stop (updatechair_in_motion false)
+	5. Roll (update Chair_in_motion true)
+	6. Stop (update Chair_in_motion false)
