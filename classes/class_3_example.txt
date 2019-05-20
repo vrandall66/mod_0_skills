@@ -21,6 +21,6 @@ Methods:
 	1. Raise_height 17.25 + 2.63
 	2. Lower_height 17.25 - 1.75
 	3. Mark_on_sale 89.99 * 0.20
-	4. Spin update Degree_facing by input
+	4. Spin 0 + 180 = 180
 	5. Roll chair_in_motion true
 	6. Stop chair_in_motion false
